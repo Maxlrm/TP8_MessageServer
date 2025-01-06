@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TP8_MessageServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TP8_MessageServer_jar</output-path>
+    <root id="archive" name="TP8_MessageServer.jar">
+      <element id="module-output" name="TP8_MessageServer" />
+    </root>
+  </artifact>
+</component>
